@@ -41,7 +41,7 @@ export default function App() {
                 {/* CV CTA */}
                 <div className="mt-6 text-center">
                   <a
-  href="/images/Usama Rafaqat Resume.pdf"
+  href="/images/usama-rafaqat-resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="w-full inline-flex flex-col items-center gap-2 px-6 py-4 border-2 border-yellow-400 rounded-lg bg-transparent hover:bg-yellow-400/10 transition-all transform hover:-translate-y-1 hover:shadow-[0_0_30px_rgba(255,196,0,0.3)] focus:outline-none"
